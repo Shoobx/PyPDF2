@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/69bbf4f15f8014a4e9c3/maintainability)](https://codeclimate.com/github/Shoobx/PyPDF2/maintainability)
+
 # PyPDF2
 
 PyPDF2 is a pure-python PDF library capable of
